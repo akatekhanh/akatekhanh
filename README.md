@@ -6,3 +6,9 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 - **Python, JS, PHP, C++ and Java**
 - [My linkedin](https://linkedin.com/in/khanh-ngo0212)
 - [My blog](https://akatekhanh.github.io)
+
+## My skills
+- **AWS**
+- **Data engineering**
+- **Machine learning**
+- **Data mining**
